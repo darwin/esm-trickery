@@ -1,0 +1,10 @@
+❯ node --version && node main.js
+v13.11.0
+(node:63591) ExperimentalWarning: The ESM module loader is experimental.
+loading global
+loading m1
+exporting m1var into global
+loading m2
+m2: m1var=:-)
+loading main
+main: m1var=:-)
